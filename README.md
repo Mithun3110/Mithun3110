@@ -19,30 +19,6 @@
 
 ---
 
-### 📚 Projects Highlight
-
-🛡️ **Real-Time Helmet Detection**  
-`Python • YOLO • Django • Raspberry Pi`  
-> Achieved 95% accuracy on a 20K+ image dataset and deployed live on edge devices.
-
-🧠 **Accent Classifier**  
-`Python • CNN • Pandas • Audio Processing`  
-> Trained a CNN model on 10K+ samples to accurately classify 8 English accents.
-
-🧪 **AR Study App**  
-`Unity • Kotlin • Vuforia • C#`  
-> Created an immersive learning tool with interactive 3D models for science topics.
-
----
-
-### 🔍 I'm Currently...
-
-- 🌱 Learning: **MLOps**, **LLMs**, and **Generative AI**
-- 🧩 Exploring: **Graph Neural Networks** and **Bayesian Models**
-- 🤝 Open to: Internship roles in **AI**, **ML**, or **Data Engineering**
-
----
-
 ### 📫 Connect with Me
 
 - 🌐 [Portfolio Website](https://www.mithundineshkumar.com)
