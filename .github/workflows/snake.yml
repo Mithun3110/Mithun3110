@@ -1,4 +1,4 @@
-name: GitHub Snake GameAdd commentMore actions
+name: GitHub Snake Game
 
 
 
@@ -32,7 +32,6 @@ jobs:
 
   generate:
 
-
     runs-on: ubuntu-latest
 
     timeout-minutes: 10
@@ -60,7 +59,6 @@ jobs:
           # GitHub username to generate the animation for
 
           github_user_name: ${{ github.repository_owner }}
-
 
 
 
@@ -97,3 +95,7 @@ jobs:
           # Optionally, you can set a custom commit message
 
           commit_message: "Update snake animation [skip ci]"
+
+
+
+Once pasted, commit changes for this snake.yml file.
